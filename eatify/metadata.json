@@ -1,6 +1,0 @@
-{
-  "name": "Eatify",
-  "description": "Sistema de asistencia nutricional y recordatorio de hábitos alimenticios saludables.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
